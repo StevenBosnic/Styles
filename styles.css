@@ -1,0 +1,71 @@
+/* STYLES */
+
+body {
+    background: white;
+    color: black;
+    font-family: work sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+h1 {
+    color: rgb(75, 167, 213);
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 85%;
+    letter-spacing: -1px;
+    box-shadow: 0px 5px rgb(4, 6, 48);
+    text-transform: uppercase;
+    margin: 4px;
+    min-height: 45vh;
+}
+
+h2 {
+    color: rgb(75, 167, 213);
+    padding: 16px;
+    font-size: 32px;
+    border-radius: 16px;
+    background-color: rgb(4, 6, 48);
+}
+
+h3 {
+    color:rgb(75, 167, 213);
+    padding: 8px;
+    border-radius: 16px;
+    background-color: rgb(4, 6, 48)
+}
+
+h4{ 
+    color:rgb(75, 167, 213);
+    padding: 8px;
+    border-radius: 16px;
+    background-color: rgb(4, 6, 48)
+}
+
+a {
+    color:rgb(75, 167, 213);
+    text-decoration: none;
+    font-style: italic;
+}
+
+p {
+    margin-bottom: 1.5em;
+    font-size: 14px;
+    letter-spacing: -0.05em;
+    text-indent: 20px;
+}
+
+main {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 4px solid rgb(75, 167, 213);
+    padding-bottom: 15vh;
+    border-bottom-style: double;
+}
+
+li{
+    color: rgb(75, 167, 213);
+    list-style: circle;
+}
+
